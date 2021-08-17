@@ -9,6 +9,8 @@ TK admin: admin/admin
 
 
 link demo :https://banlaptop.herokuapp.com/
+link Admin: https://banlaptop.herokuapp.com/admin
+
 link github:https://github.com/nhatloi/banlaptop
 
 link adminmysql: https://mysql.site4now.net/
